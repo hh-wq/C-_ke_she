@@ -1,2 +1,2 @@
 # Project4
-dish.text 的编码格式请根据需要修改
+dish.txt 的编码格式请根据需要修改
